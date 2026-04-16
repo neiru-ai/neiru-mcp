@@ -62,7 +62,7 @@ Add:
 #### Claude Code
 
 ```bash
-claude mcp add neiru --transport sse https://neiru.ai/api/v2/mcp/sse \
+claude mcp add neiru --transport http https://neiru.ai/api/v2/mcp \
   --header "Authorization: Bearer bak_YOUR_API_KEY"
 ```
 
